@@ -66,4 +66,5 @@ typings/
 # End of https://www.gitignore.io/api/node
 
 lib
-src/
+src/*.js
+src/test/*.js
