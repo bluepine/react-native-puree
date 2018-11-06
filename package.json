@@ -12,8 +12,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "buffer": "^5.0.8",
-    "react-native-uuid": "^1.4.9"
+    "buffer": "^5.0.8"
   },
   "ava": {
     "require": [
