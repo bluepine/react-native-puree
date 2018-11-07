@@ -70,7 +70,7 @@ export default class Puree {
     const queueItem = await this.queue.push(log)
     this.buffer.push(queueItem)
 
-    debugLog(`Recorded a log: ${JSON.stringify(log)}`)
+    // debugLog(`Recorded a log: ${JSON.stringify(log)}`)
   }
 
   applyFilters (value): Log {
